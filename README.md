@@ -1,4 +1,6 @@
 # Oga-Boga
+BAN FREE
+
 
 # OwO wut dis
 Safe invisble mod for my friends

@@ -1,5 +1,6 @@
 # Oga-Boga
-BAN FREE
+~~BAN FREE~~ 
+This is a blatant fucking lie LMFAO. I STG You can get banned for drinking water in this game like bruh.
 
 
 # OwO wut dis
@@ -14,3 +15,10 @@ there are many other ways of achieving this but with this you won't get shown in
 Toggle - for people to enable before joining invite or joining others
 
 button - to join clipboard
+
+# Blaze's Changes
+### When Invisible
+![eatassgofastsmokegrosssledgangXD](https://wtfblaze.com/uploads/png/ZCLJp.png)
+
+### When Not Invisible
+![familyguyisnotafunnyshowatall](https://wtfblaze.com/uploads/png/h8UMn.png)

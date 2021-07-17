@@ -3,6 +3,9 @@
 This is a blatant fucking lie LMFAO. I STG You can get banned for drinking water in this game like bruh.
 
 
+# This Mod Requires VRCMG Unchained Core
+[You can download it from here](https://github.com/WTFBlaze/Unchained-Core)
+
 # OwO wut dis
 Safe invisble mod for my friends
 

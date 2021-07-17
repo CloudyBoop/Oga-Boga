@@ -22,3 +22,7 @@ button - to join clipboard
 
 ### When Not Invisible
 ![familyguyisnotafunnyshowatall](https://wtfblaze.com/uploads/png/h8UMn.png)
+
+
+# Credits
+https://github.com/DubyaDude/RubyButtonAPI

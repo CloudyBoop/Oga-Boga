@@ -25,4 +25,6 @@ button - to join clipboard
 
 
 # Credits
-https://github.com/DubyaDude/RubyButtonAPI
+| Use Case | Name | Link | Author |
+| ------ | ------ | ------ | ------ |
+| Buttons | RubyButtonAPI | https://github.com/DubyaDude/RubyButtonAPI | DubyaDude |

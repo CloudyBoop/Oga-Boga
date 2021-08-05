@@ -13,7 +13,7 @@ using RubyButtonAPI;
 using MelonLoader;
 
 [assembly: MelonLoader.MelonGame("VRChat", "VRChat")]
-[assembly: MelonLoader.MelonInfo(typeof(Oga_Boga.Main), "Oga Boga", "♥\t♥\t♥ KEK", "KeafyIsHere & WTFBlaze")]
+[assembly: MelonLoader.MelonInfo(typeof(Oga_Boga.Main), "Oga Boga", "♥\t♥\t♥ KEK", "KeafyIsHere, WTFBlaze, Spacers.VIP")]
 
 namespace Oga_Boga
 {
@@ -25,6 +25,11 @@ namespace Oga_Boga
             - Updated the mod to MelonLoader v0.4.0.
             - Updated the Harmony patching to Harmony X
             - Added a label at the bottom of QM That shows if you are invisible or not.
+         */
+        /*
+             Spacers.VIP Changes:
+             - Updated To MelonLoader v0.4.3
+             - Fixed the VRCUiManager error making it so you cant join lobbys and you will be stuck in a loop
          */
 
 
@@ -74,7 +79,7 @@ namespace Oga_Boga
 
         private IEnumerator WaitForUI()
         {
-            while (VRCUiManager.prop_VRCUiManager_0 == null)
+            while (VRCUiManager.field_Private_Static_VRCUiManager_0 == null)
                 yield return null;
             VRCUI();
         }
